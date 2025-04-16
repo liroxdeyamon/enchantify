@@ -1,0 +1,7 @@
+name: enchantify
+version: '1.0.0'
+main: org.lirox.enchantify.Enchantify
+api-version: '1.21.4'
+prefix: Enchantify
+authors: [LiroxDeYamon]
+description: Rebalanced
